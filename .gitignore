@@ -1,0 +1,5 @@
+\.venv
+\_sample
+\common\__pycache__
+\model\__pycache__
+*.py[cod]

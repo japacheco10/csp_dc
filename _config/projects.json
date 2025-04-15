@@ -1,0 +1,1059 @@
+{
+    "projects": [
+        {
+            "project_id": "USTX25D136SW",
+            "project_name": "Pflugerville PD, TX",
+            "start_date": "2025-03-10",
+            "end_date": "2025-07-11",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-03-10",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-14",
+                    "to": "2025-05-23"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-05-26",
+                    "to": "2025-06-20"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-06-23",
+                    "to": "2025-07-11"
+                }
+            ],
+            "loe_hours": 353,
+            "loe_days": 58,
+            "conversion_type": "Live",
+            "data_complexity": 1.8,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USCA24D059SS",
+            "project_name": "Huntington Park PD, CA",
+            "start_date": "2025-02-24",
+            "end_date": "2025-07-25",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-02-24",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-14",
+                    "to": "2025-06-06"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-06-09",
+                    "to": "2025-07-04"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-07-07",
+                    "to": "2025-07-25"
+                }
+            ],
+            "loe_hours": 575,
+            "loe_days": 95,
+            "conversion_type": "Live",
+            "data_complexity": 1.65,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USTX21D081SW",
+            "project_name": "Austin Community College, TX",
+            "start_date": "2025-03-31",
+            "end_date": "2025-10-31",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-03-31",
+                    "to": "2025-05-16"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-05-19",
+                    "to": "2025-09-05"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-09-08",
+                    "to": "2025-10-10"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-10-13",
+                    "to": "2025-10-31"
+                }
+            ],
+            "loe_hours": 283,
+            "loe_days": 47,
+            "conversion_type": "Secondary",
+            "data_complexity": 1,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USSC24D072SS",
+            "project_name": "Hampton County, SC",
+            "start_date": "2025-06-02",
+            "end_date": "2025-11-28",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-06-02",
+                    "to": "2025-07-25"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-07-28",
+                    "to": "2025-10-03"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-10-03",
+                    "to": "2025-11-07"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-11-10",
+                    "to": "2025-11-28"
+                }
+            ],
+            "loe_hours": 492,
+            "loe_days": 82,
+            "conversion_type": "Live",
+            "data_complexity": 3.55,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USOR24D034SW",
+            "project_name": "Harney County, OR",
+            "start_date": "2025-06-16",
+            "end_date": "2025-12-12",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-06-16",
+                    "to": "2025-08-08"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-08-11",
+                    "to": "2025-10-17"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-10-20",
+                    "to": "2025-11-21"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-11-24",
+                    "to": "2025-12-12"
+                }
+            ],
+            "loe_hours": 375,
+            "loe_days": 62,
+            "conversion_type": "Secondary",
+            "data_complexity": 2.35,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USID24D074SW",
+            "project_name": "Elmore County SO, ID",
+            "start_date": "2025-07-14",
+            "end_date": "2026-01-02",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-07-14",
+                    "to": "2025-08-29"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-09-01",
+                    "to": "2025-11-07"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-11-10",
+                    "to": "2025-12-12"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-12-15",
+                    "to": "2026-01-02"
+                }
+            ],
+            "loe_hours": 439,
+            "loe_days": 73,
+            "conversion_type": "Secondary",
+            "data_complexity": 3.25,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USLA24D067SS",
+            "project_name": "Alexandria PD, LA",
+            "start_date": "2025-04-28",
+            "end_date": "2025-10-31",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-04-28",
+                    "to": "2025-05-30"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-06-02",
+                    "to": "2025-09-12"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-09-15",
+                    "to": "2025-10-10"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-10-13",
+                    "to": "2025-10-31"
+                }
+            ],
+            "loe_hours": 405,
+            "loe_days": 67,
+            "conversion_type": "Live",
+            "data_complexity": 3.15,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "PENDING",
+            "project_name": "Youngston PD, OH",
+            "start_date": "2025-05-19",
+            "end_date": "2025-09-12",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-05-19",
+                    "to": "2025-06-20"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-06-23",
+                    "to": "2005-08-08"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-08-11",
+                    "to": "2025-08-22"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-08-25",
+                    "to": "2025-09-12"
+                }
+            ],
+            "loe_hours": 250,
+            "loe_days": 41,
+            "conversion_type": "Secondary",
+            "data_complexity": 2.65,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USOH24D140SW",
+            "project_name": "Clyde PD, OH",
+            "start_date": "2025-05-05",
+            "end_date": "2025-09-05",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-05-05",
+                    "to": "2025-05-30"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-06-02",
+                    "to": "2025-07-25"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-07-28",
+                    "to": "2025-08-15"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-08-18",
+                    "to": "2025-09-05"
+                }
+            ],
+            "loe_hours": 305,
+            "loe_days": 50,
+            "conversion_type": "Secondary",
+            "data_complexity": 1.85,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USMN23D064SW",
+            "project_name": "Roseau County, MN",
+            "start_date": "2025-02-24",
+            "end_date": "2025-06-27",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-02-24",
+                    "to": "2025-04-04"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-07",
+                    "to": "2025-05-23"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-05-26",
+                    "to": "2025-06-06"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-06-09",
+                    "to": "2025-06-27"
+                }
+            ],
+            "loe_hours": 852,
+            "loe_days": 142,
+            "conversion_type": "Secondary",
+            "data_complexity": 2.35,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USMN24D076SW",
+            "project_name": "Leech Lake, MN",
+            "start_date": "2025-02-10",
+            "end_date": "2025-05-23",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-02-10",
+                    "to": "2025-03-07"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-03-10",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-04-14",
+                    "to": "2025-05-02"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-05-05",
+                    "to": "2025-05-23"
+                }
+            ],
+            "loe_hours": 450,
+            "loe_days": 75,
+            "conversion_type": "Live",
+            "data_complexity": 2.55,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USLA23D099SW",
+            "project_name": "Sabine Parish, LA",
+            "start_date": "2025-04-14",
+            "end_date": "2025-08-08",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-04-14",
+                    "to": "2025-05-09"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-05-12",
+                    "to": "2025-06-20"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-06-23",
+                    "to": "2025-07-18"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-07-21",
+                    "to": "2025-08-08"
+                }
+            ],
+            "loe_hours": 450,
+            "loe_days": 75,
+            "conversion_type": "Live",
+            "data_complexity": 2.7,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USSC22D057SW",
+            "project_name": "Calhoun County, SC",
+            "start_date": "2025-06-16",
+            "end_date": "2025-10-10",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-06-16",
+                    "to": "2025-07-18"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-07-21",
+                    "to": "2025-09-05"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-09-08",
+                    "to": "2025-09-19"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-09-22",
+                    "to": "2025-10-10"
+                }
+            ],
+            "loe_hours": 468,
+            "loe_days": 78,
+            "conversion_type": "Secondary",
+            "data_complexity": 3.5,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USLA22D014SW",
+            "project_name": "Natchitoches Paris, LA",
+            "start_date": "2025-08-04",
+            "end_date": "2025-11-28",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-08-04",
+                    "to": "2025-09-05"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-09-08",
+                    "to": "2025-10-24"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-10-27",
+                    "to": "2025-11-07"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-11-10",
+                    "to": "2025-11-28"
+                }
+            ],
+            "loe_hours": 696,
+            "loe_days": 116,
+            "conversion_type": "Secondary",
+            "data_complexity": 3.75,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USUT20D042",
+            "project_name": "Davis County SO, UT",
+            "start_date": "2025-01-06",
+            "end_date": "2025-04-18",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-01-06",
+                    "to": "2025-01-31"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-02-03",
+                    "to": "2025-02-28"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-03-03",
+                    "to": "2025-03-28"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-03-31",
+                    "to": "2025-04-18"
+                }
+            ],
+            "loe_hours": 344,
+            "loe_days": 57,
+            "conversion_type": "Live",
+            "data_complexity": 1.35,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "MAP20I107A",
+            "project_name": "Springfield, MA -  RMS",
+            "start_date": "2025-02-03",
+            "end_date": "2026-01-02",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-02-03",
+                    "to": "2025-03-21"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-03-24",
+                    "to": "2025-11-14"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-11-17",
+                    "to": "2025-12-12"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-12-15",
+                    "to": "2026-01-02"
+                }
+            ],
+            "loe_hours": 540,
+            "loe_days": 90,
+            "conversion_type": "Live",
+            "data_complexity": 3,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USWV22D038SW",
+            "project_name": "Princeton PD, WV",
+            "start_date": "2025-01-06",
+            "end_date": "2025-05-02",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-01-06",
+                    "to": "2025-01-31"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-02-03",
+                    "to": "2025-03-28"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-03-31",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-04-14",
+                    "to": "2025-05-02"
+                }
+            ],
+            "loe_hours": 290,
+            "loe_days": 48,
+            "conversion_type": "Reporting",
+            "data_complexity": 2.15,
+            "modules": [
+                "Basic"
+            ]
+        },
+        {
+            "project_id": "USNJ22D115SW",
+            "project_name": "Marlboro TWP, NJ",
+            "start_date": "2025-02-03",
+            "end_date": "2025-06-27",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-02-03",
+                    "to": "2025-04-04"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-07",
+                    "to": "2025-05-23"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-05-26",
+                    "to": "2025-06-06"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-06-09",
+                    "to": "2025-06-27"
+                }
+            ],
+            "loe_hours": 481,
+            "loe_days": 80,
+            "conversion_type": "Secondary",
+            "data_complexity": 3.25,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USNV24D036SW",
+            "project_name": "Boulder City PD, NV",
+            "start_date": "2024-10-15",
+            "end_date": "2025-05-02",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2024-10-15",
+                    "to": "2025-02-21"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-02-24",
+                    "to": "2025-02-28"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-03-03",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-04-14",
+                    "to": "2025-05-02"
+                }
+            ],
+            "loe_hours": 160,
+            "loe_days": 26,
+            "conversion_type": "Live",
+            "data_complexity": 1.25,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USNM24D059SW",
+            "project_name": "Isleta Pueblo PD, NM",
+            "start_date": "2025-01-13",
+            "end_date": "2025-07-25",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-01-13",
+                    "to": "2025-03-07"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-03-10",
+                    "to": "2025-06-06"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-06-09",
+                    "to": "2025-07-04"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-07-07",
+                    "to": "2025-07-25"
+                }
+            ],
+            "loe_hours": 539,
+            "loe_days": 89,
+            "conversion_type": "Live",
+            "data_complexity": 1.05,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USWI24D002SW",
+            "project_name": "Ashland-Bayfield, WI",
+            "start_date": "2025-01-13",
+            "end_date": "2025-08-08",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-01-13",
+                    "to": "2025-04-18"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-21",
+                    "to": "2025-06-13"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-06-16",
+                    "to": "2025-07-18"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-07-21",
+                    "to": "2025-08-08"
+                }
+            ],
+            "loe_hours": 300,
+            "loe_days": 50,
+            "conversion_type": "Live",
+            "data_complexity": 1.85,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USNM24D038SW",
+            "project_name": "Jal PD, NM",
+            "start_date": "2025-01-20",
+            "end_date": "2025-09-12",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-01-20",
+                    "to": "2025-04-23"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-26",
+                    "to": "2025-07-25"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-07-28",
+                    "to": "2025-08-22"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-08-25",
+                    "to": "2025-09-12"
+                }
+            ],
+            "loe_hours": 458,
+            "loe_days": 76,
+            "conversion_type": "Hybrid",
+            "data_complexity": 1.65,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USAL22D040SW",
+            "project_name": "DeKalb County, AL",
+            "start_date": "2024-04-15",
+            "end_date": "2025-09-05",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2024-04-15",
+                    "to": "2024-05-17"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2024-05-20",
+                    "to": "2025-07-25"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-07-28",
+                    "to": "2025-08-15"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-08-18",
+                    "to": "2025-09-05"
+                }
+            ],
+            "loe_hours": 264,
+            "loe_days": 44,
+            "conversion_type": "Live",
+            "data_complexity": 1.8,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USNJ22D049SW",
+            "project_name": "DEP, NJ",
+            "start_date": "2024-05-20",
+            "end_date": "2025-05-23",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2024-05-20",
+                    "to": "2024-11-08"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2024-11-11",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-04-14",
+                    "to": "2025-05-02"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-05-05",
+                    "to": "2025-05-23"
+                }
+            ],
+            "loe_hours": 450,
+            "loe_days": 75,
+            "conversion_type": "Secondary",
+            "data_complexity": 2.95,
+            "modules": [
+                "Basic",
+                "Medium"
+            ]
+        },
+        {
+            "project_id": "USAL23D066SW",
+            "project_name": "Autauga County, AL",
+            "start_date": "2024-10-08",
+            "end_date": "2025-08-22",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2024-10-08",
+                    "to": "2024-11-15"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2024-11-18",
+                    "to": "2025-07-03"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-07-07",
+                    "to": "2025-08-01"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-08-04",
+                    "to": "2025-08-22"
+                }
+            ],
+            "loe_hours": 160,
+            "loe_days": 26,
+            "conversion_type": "Live",
+            "data_complexity": 1.05,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USAZ20D085",
+            "project_name": "Kingman PD, AZ",
+            "start_date": "2025-05-19",
+            "end_date": "2025-08-08",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-05-19",
+                    "to": "2025-06-06"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-06-09",
+                    "to": "2025-06-27"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-06-30",
+                    "to": "2025-07-18"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-07-21",
+                    "to": "2025-08-08"
+                }
+            ],
+            "loe_hours": 120,
+            "loe_days": 20,
+            "conversion_type": "Reporting",
+            "data_complexity": 2.65,
+            "modules": [
+                "Basic"
+            ]
+        },
+        {
+            "project_id": "USNE25D005SW",
+            "project_name": "Saunders County, NE",
+            "start_date": "2025-05-19",
+            "end_date": "2025-11-14",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-05-19",
+                    "to": "2025-07-11"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-07-14",
+                    "to": "2025-09-19"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-09-22",
+                    "to": "2025-10-24"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-10-27",
+                    "to": "2025-11-14"
+                }
+            ],
+            "loe_hours": 575,
+            "loe_days": 95,
+            "conversion_type": "Hybrid",
+            "data_complexity": 2.35,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        },
+        {
+            "project_id": "USAK23D015SW",
+            "project_name": "North Slope, AK",
+            "start_date": "2025-04-07",
+            "end_date": "2025-05-02",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-04-07",
+                    "to": "2025-04-11"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-14",
+                    "to": "2025-04-16"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-04-17",
+                    "to": "2025-04-18"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-04-21",
+                    "to": "2025-05-02"
+                }
+            ],
+            "loe_hours": 24,
+            "loe_days": 4,
+            "conversion_type": "Reporting",
+            "data_complexity": 1.65,
+            "modules": [
+                "Basic"
+            ]
+        },
+        {
+            "project_id": "CAP21I275A",
+            "project_name": "Redding, CA",
+            "start_date": "2025-04-07",
+            "end_date": "2025-06-06",
+            "phases": [
+                {
+                    "id": "Data Profiling",
+                    "from": "2025-04-07",
+                    "to": "2025-04-18"
+                },
+                {
+                    "id": "UAT",
+                    "from": "2025-04-21",
+                    "to": "2025-05-02"
+                },
+                {
+                    "id": "Deployment",
+                    "from": "2025-05-05",
+                    "to": "2025-05-16"
+                },
+                {
+                    "id": "Closing",
+                    "from": "2025-05-19",
+                    "to": "2025-06-06"
+                }
+            ],
+            "loe_hours": 80,
+            "loe_days": 13,
+            "conversion_type": "Live",
+            "data_complexity": 1.25,
+            "modules": [
+                "Basic",
+                "Medium",
+                "Advanced"
+            ]
+        }
+    ]
+}

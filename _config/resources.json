@@ -1,0 +1,215 @@
+{
+    "resources": [
+        {
+            "name": "Neha",
+            "seniority": 3,
+            "product_knowledge": "Medium",
+            "skill_level": 1.05,
+            "active_projects": [
+                {
+                    "project_id": "USWV22D038SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USNM24D059SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USAK23D015SW",
+                    "status": "Active"
+                }
+            ],
+            "project_capacity": 3,
+            "time_off": [
+                {
+                    "from":"2025-05-01",
+                    "to":"2025-06-18",
+                    "type":"Maternity"
+                },
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        },
+        {
+            "name": "Elida",
+            "seniority": 5,
+            "product_knowledge": "Advanced",
+            "skill_level": 3.2,
+            "active_projects": [
+                {
+                    "project_id": "USMN23D064SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USNJ22D115SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USAL22D040SW",
+                    "status": "On Hold"
+                },
+                {
+                    "project_id": "USAL23D066SW",
+                    "status": "On Hold"
+                }
+            ],
+            "project_capacity": 4,
+            "time_off": [
+                {
+                    "from":"2025-04-17",
+                    "to":"2025-04-18",
+                    "type":"PTO"
+                },
+                {
+                    "from":"2025-05-01",
+                    "to":"2025-05-02",
+                    "type":"PTO"
+                },
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        },
+        {
+            "name": "AJ",
+            "seniority": 1,
+            "product_knowledge": "Medium",
+            "skill_level": 2.3,
+            "active_projects": [
+                {
+                    "project_id": "USOH24D140SW",
+                    "status": "On Hold"
+                },
+                {
+                    "project_id": "USNM24D038SW",
+                    "status": "Active"
+                }
+            ],
+            "project_capacity": 2,
+            "time_off": [
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        },
+        {
+            "name": "Clint",
+            "seniority": 1,
+            "product_knowledge": "Medium",
+            "skill_level": 2.5,
+            "active_projects": [
+                {
+                    "project_id": "USTX21D081SW",
+                    "status": "Active"
+                }
+            ],
+            "project_capacity": 2,
+            "time_off": [
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        },
+        {
+            "name": "David",
+            "seniority": 5,
+            "product_knowledge": "Advanced",
+            "skill_level": 3.6,
+            "active_projects": [
+                {
+                    "project_id": "USTX25D136SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USLA23D099SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USSC22D057SW",
+                    "status": "On Hold"
+                },
+                {
+                    "project_id": "USUT20D042",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USNV24D036SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USWI24D002SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USNJ22D049SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USAZ20D085",
+                    "status": "On Hold"
+                }
+            ],
+            "project_capacity": 6,
+            "time_off": [
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        },
+        {
+            "name": "Jorge",
+            "seniority": 5,
+            "product_knowledge": "Advanced",
+            "skill_level": 3.8,
+            "active_projects": [
+                {
+                    "project_id": "USCA24D059SS",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "USMN24D076SW",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "MAP20I107A",
+                    "status": "Active"
+                },
+                {
+                    "project_id": "CAP21I275A",
+                    "status": "Active"
+                }
+            ],
+            "project_capacity": 4,
+            "time_off": [
+                {
+                    "from":"2025-07-28",
+                    "to":"2025-08-01",
+                    "type":"Training"
+                }
+            ],
+            "availability": {
+            }
+        }
+    ]
+}
